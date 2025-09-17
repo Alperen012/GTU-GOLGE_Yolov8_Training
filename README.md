@@ -38,6 +38,17 @@ The goal of this project is to train robust UAV detection models that can be dep
 
 ---
 
+## 🎥 Demo Video
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=4_FwGHKhkYU" target="_blank">
+    <img src="https://img.youtube.com/vi/4_FwGHKhkYU/0.jpg" alt="UAV Detection Demo" width="70%">
+  </a>
+</div>
+
+> 🔗 [Watch on YouTube](https://www.youtube.com/watch?v=4_FwGHKhkYU)
+
+
 ## 🛠️ Tech Stack
 
 - [YOLOv8](https://github.com/ultralytics/ultralytics) – Object detection framework  
